@@ -10,14 +10,14 @@ This project is a simple Java console application that simulates a gradebook for
 It demonstrates:
 - Classes and objects  
 - Methods (setters, calculations, string formatting)  
-- User input/output with the `Scanner` class  
+- User input/output with the Scanner class  
 - Basic arithmetic and conditional logic  
 
 The application prompts the user to enter a students information and test scores, calculates the average score, assigns a letter grade, and displays a formatted student report.
 
 ## Files
-- **Student.java** Defines the `Student` class with fields, setters, and methods for average, grade, and report.  
-- **StudentGradebookApp.java** Contains the `main()` method to prompt the user for input and display the report.  
+- **Student.java** Defines the Student class with fields, setters, and methods for average, grade, and report.  
+- **StudentGradebookApp.java** Contains the main() method to prompt the user for input and display the report.  
 - **README.md** Documentation and instructions.  
 
 ---
