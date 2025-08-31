@@ -25,7 +25,6 @@ The application prompts the user to enter a students information and test scores
 ## Compile and Run
 1. Open a terminal/command prompt in the project directory.  
 2. Compile both Java files:  
-   ```bash
    javac Student.java StudentGradebookApp.java
 3. Run command:
     java StudentGradebookApp
